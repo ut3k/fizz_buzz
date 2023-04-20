@@ -1,1 +1,1 @@
-# fizz_buzz
+# My python solution for fizzbuzz problem
